@@ -1,5 +1,9 @@
 ## INFO
 
+This style is only compatible with anki card, that have a frond and a back field! E.g. Cards with front, back and info fields, wont be compatible!
+
+---
+
 Like in the comments, you can configure the color and transparancy like you want.
 
 All the colors are in the R, G, B format. The transparancy effect ranges from 0 (fully transparent) to 1 (no transparancy).
