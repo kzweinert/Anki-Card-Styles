@@ -1,3 +1,9 @@
+## INFO
+
+Like in the comments, you can configure the color and transparancy like you want.
+
+All the colors are in the R, G, B format. The transparancy effect ranges from 0 (fully transparent) to 1 (no transparancy).
+
 ## CSS
 
 
@@ -71,7 +77,8 @@ hr {
 }
 ```
 
-FRONT
+## FRONT
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -89,7 +96,8 @@ FRONT
 ```
 
 
-BACK
+## BACK
+
 ```
 <!DOCTYPE html>
 <html lang="en">
