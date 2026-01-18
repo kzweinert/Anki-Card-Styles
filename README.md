@@ -4,7 +4,7 @@ Anki Card Styles in HTML and CSS with a tutorial on how to implement them!
 
 ## What is an Anki Card Style?
 
-Anki gives you the option to edit your "note types". Those can be edited with HTML (front and back side) and CSS (style configuration).
+Anki gives you the option to edit your "note types". Those can be edited with HTML (front and back side) and CSS (style configuration), to achieve all kinds of designs.
 
 
 ## How can I install them?
