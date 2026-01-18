@@ -10,4 +10,6 @@ Anki gives you the option to edit your "note types". Those can be edited with HT
 1. Navigatie to "extras" in the top bar of anki.
 2. Click on "manage note types"
 3. Choose the note type you'd like to edit the style.
-4. Click 
+4. Click on "Cards..."
+5. Paste the Style Templates into their corresponding fields
+6. Save and exit!
