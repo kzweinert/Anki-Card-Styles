@@ -13,3 +13,7 @@ Anki gives you the option to edit your "note types". Those can be edited with HT
 4. Click on "Cards..."
 5. Paste the Style Templates into their corresponding fields
 6. Save and exit!
+
+> If you use another language, change the {{Front}} and {{Back}} field names!
+> "extras" > "manage note types" > (your note type) > "Fields..."
+> -> Change "1" to "Front" and "2" to "Back"
