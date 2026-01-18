@@ -1,6 +1,6 @@
 ## INFO
 
-This style is only compatible with anki card, that have a frond and a back field! E.g. Cards with front, back and info fields, wont be compatible!
+This style is only compatible with anki cards, that have a frond and a back field! E.g. Cards with front, back and info fields, wont be compatible!
 
 ---
 
